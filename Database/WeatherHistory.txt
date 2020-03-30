@@ -1,0 +1,1 @@
+DataBase file is at https://s3-us-west-2.amazonaws.com/raccoon.blue/DB/WeatherHistory
